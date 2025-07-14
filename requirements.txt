@@ -1,0 +1,7 @@
+langchain
+langgraph
+python-dotenv
+streamlit
+requests
+colorlog
+groq
