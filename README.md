@@ -48,7 +48,7 @@ GROQ_API_KEY=your_groq_api_key_here
 python file_name.py
 
 
-##🧠 How It Works:
+## 🧠 How It Works:
 
 *A custom LangGraph agent is created using create_react_agent.
 
